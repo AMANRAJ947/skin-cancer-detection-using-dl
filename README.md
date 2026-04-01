@@ -63,11 +63,11 @@ Model trained on skin lesion dataset
 Achieves good accuracy in classification
 Helps in early-stage detection
 
-(Add your actual accuracy, loss graphs, screenshots here if available)
+
 
 📸 Sample Output
 
-(Add screenshots of predictions or UI here)
+
 
 🔮 Future Improvements
 Improve accuracy using transfer learning (ResNet, EfficientNet)
